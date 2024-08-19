@@ -48,8 +48,11 @@ The dataset contains information related to pets and their adoption status. The 
 
 ## Results
 
-**LSTM Model**: Achieved an accuracy of XX%. 
-**KNN Model**: Achieved an accuracy of YY%.
-**K-Means Clustering**: Achieved a silhouette score of ZZ%. 
-**XGBoost Model**: Achieved an accuracy of AA%.
+**LSTM Model**: Achieved an accuracy of 87%. 
+
+**KNN Model**: Achieved an accuracy of 76%.
+
+**K-Means Clustering**: Achieved a silhouette score of 97%.
+ 
+**XGBoost Model**: Achieved an accuracy of 95%.
 
